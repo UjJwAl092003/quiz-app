@@ -11,7 +11,7 @@ const quizData=[
       b:'Manmohan Singh',
       c:'Rahul Gandhi',
       d:'Amit Shah',
-      correct:'b'
+      correct:'a'
     },
     
     {question:"What is the jersey no. of mahi?",
